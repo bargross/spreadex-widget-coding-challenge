@@ -1,0 +1,14 @@
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\bin\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.exe
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\bin\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.deps.json
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\bin\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.runtimeconfig.json
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\bin\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.dll
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\bin\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.pdb
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.AssemblyInfoInputs.cache
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.AssemblyInfo.cs
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.dll
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\refint\SpreadEx.Widget.Coding.Challenge.dll
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.pdb
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\SpreadEx.Widget.Coding.Challenge.genruntimeconfig.cache
+C:\Users\Leon\Documents\Coding Tests\spreadex-widget-coding-challenge\SpreadEx.Widget.Coding.Challenge\obj\Debug\net9.0\ref\SpreadEx.Widget.Coding.Challenge.dll
