@@ -1,9 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1cca4022_002D8db6_002D485c_002D8349_002D23cb15468ca1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RectangleWidget_WidthIsNotPositive_ThrowArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::4B6CF865-79CD-4FCC-9EF7-030F99D1DEB4::net9.0::SpreadEx.Widget.Coding.Challenge.Tests.Models.RectangleWidgetTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::4B6CF865-79CD-4FCC-9EF7-030F99D1DEB4::net9.0::SpreadEx.Widget.Coding.Challenge.Tests.Models.CircleWidgetTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::4B6CF865-79CD-4FCC-9EF7-030F99D1DEB4::net9.0::SpreadEx.Widget.Coding.Challenge.Tests.Models.EllipseWidgetTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::4B6CF865-79CD-4FCC-9EF7-030F99D1DEB4::net9.0::SpreadEx.Widget.Coding.Challenge.Tests.Models.TextboxWidgetTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
