@@ -41,7 +41,7 @@ Simple class to render all the widgets, this class has the logic which collects 
 
 Well since I'm using inheritance here and widgets all have a base class, if this code lived on a live service, firstable in order to manage all of these objects:
 
-- (to i.e.: instantiate shapes without the boiler plate code) I'd create a factory
+- To i.e.: instantiate shapes without the boiler plate code, I'd create a factory
   - inject it onto .NET DI as a singleton
 - Split the rendering logic onto its own class as is not the responsability of the layout class to render itself :D
   - also add tests.
