@@ -68,6 +68,18 @@ public class RectangleWidgetTests
         
         widget.ToString().Should().Be("Rectangle (1,1) width=4 height=10");
     }
+
+    [Fact]
+    public void RemovePreviousUpdate_HistoryHasSingleUpdate_ThrowsExcetion()
+    {
+        var widget = new RectangleWidget(1, 1, 2, 4);
+
+        widget.ToString().Should().Be("Rectangle (1,1) width=2 height=4");
+        
+        Action act = () => widget.RemovePreviousUpdate();
+
+        act.Should().Throw<Exception>();
+    }
     
     [Fact]
     public void RemovePreviousUpdate_RemovesPreviousUpdate_ShowsPreviousToLastUpdated()

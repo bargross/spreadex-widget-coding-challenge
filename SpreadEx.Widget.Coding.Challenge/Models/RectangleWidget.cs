@@ -37,6 +37,11 @@ public class RectangleWidget: BaseWidget
             throw new OperationCanceledException();
         }
 
+        if (_updateHistory.Count == 1)
+        {
+            throw new Exception("Cannot remove previous update as there are no updates before that!");
+        }
+
         _updateHistory.RemoveAt(_updateHistory.Count - 1);
 
         var previousUpdate = _updateHistory[_updateHistory.Count - 1];
