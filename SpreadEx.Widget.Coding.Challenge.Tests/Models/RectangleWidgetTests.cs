@@ -44,4 +44,44 @@ public class RectangleWidgetTests
 
         widget.ToString().Should().Be("Rectangle (1,1) width=2 height=4");
     }
+
+    [Fact]
+    public void UpdateDimensions_WidgetHasValidDetails_ReturnsStringWithCorrectDetails()
+    {
+        var widget = new RectangleWidget(1, 1, 2, 4);
+
+        widget.ToString().Should().Be("Rectangle (1,1) width=2 height=4");
+        
+        widget.UpdateDimensions(4, 4);
+        
+        widget.ToString().Should().Be("Rectangle (1,1) width=4 height=4");
+    }
+    
+    [Fact]
+    public void UpdateDimensions_UpdateHeight_ShowsUpdatedHeight()
+    {
+        var widget = new RectangleWidget(1, 1, 2, 4);
+
+        widget.ToString().Should().Be("Rectangle (1,1) width=2 height=4");
+        
+        widget.UpdateDimensions(4, 10);
+        
+        widget.ToString().Should().Be("Rectangle (1,1) width=4 height=10");
+    }
+    
+    [Fact]
+    public void RemovePreviousUpdate_RemovesPreviousUpdate_ShowsPreviousToLastUpdated()
+    {
+        var widget = new RectangleWidget(1, 1, 2, 4);
+
+        widget.ToString().Should().Be("Rectangle (1,1) width=2 height=4");
+        
+        widget.UpdateDimensions(4, 10);
+        
+        widget.ToString().Should().Be("Rectangle (1,1) width=4 height=10");
+        
+        widget.RemovePreviousUpdate();
+        
+        widget.ToString().Should().Be("Rectangle (1,1) width=2 height=4");
+    }
 }
